@@ -1,0 +1,3 @@
+cmd: 'docker build -t kennedyoliveira/java8 .'
+name: 'Build kennedyoliveira/java8'
+sh: true
